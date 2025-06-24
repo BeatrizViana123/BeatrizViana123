@@ -1,16 +1,22 @@
-## Hi there 👋
+## Olá! Eu sou a Beatriz Viana 123
 
-<!--
-**BeatrizViana123/BeatrizViana123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Graduanda em Engenharia da Computação (7º período).
+- 💻 Desenvolvedora com foco em **back-end** e em construir soluções robustas com **Flutter + Firebase**
+- 🌱 Atualmente estudando Python e JavaScript.
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/BeatrizViana123">
+    <img src="https://github-readme-stats.vercel.app/api?username=BeatrizViana123&show_icons=true&theme=omni&include_all_commits=true&count_private=true" />
+  </a>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizViana123&layout=compact&langs_count=10&theme=omni" />
+</div>
+<div style="display: inline_block"><br>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" widht="45" height="45"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45"/>    
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
