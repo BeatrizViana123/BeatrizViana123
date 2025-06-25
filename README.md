@@ -3,7 +3,7 @@
 - 🎓 Graduanda em Engenharia da Computação (7º período).
 - 🧩 Possuo conhecimento básico em **desenvolvimento back-end**, tendo o foco em integração de APIs e banco de dados. 
 - 💻 Tenho experiência em **Flutter + Firebase**, realizando a autenticação, armazenamento de dados e funcionalidades em tempo real. 
-- 🌱 Atualmente estudando **Python** e **JavaScript**.
+- 🌱 Atualmente estudando **Python**, **JavaScript** e **MySQL**.
 
 <div align="center">
   <a href="https://github.com/BeatrizViana123">
@@ -20,5 +20,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" widht="45" height="45"/>
 </div>
-
 
