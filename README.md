@@ -21,3 +21,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" widht="45" height="45"/>
 </div>
 
+##
+
+<div align="center">
+  <a href= "mailto:beatrizviana5840@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a> 
+  <a href= "https://www.linkedin.com/in/beatriz-viana-451326268/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
+</div>
+
