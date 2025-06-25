@@ -1,8 +1,9 @@
 ## Olá! Eu sou a Beatriz Viana 123
 
 - 🎓 Graduanda em Engenharia da Computação (7º período).
-- 💻 Desenvolvedora com foco em **back-end** e em construir soluções robustas com **Flutter + Firebase**
-- 🌱 Atualmente estudando Python e JavaScript.
+- 🧩 Possuo conhecimento básico em **desenvolvimento back-end**, tendo o foco em integração de APIs e banco de dados. 
+- 💻 Tenho experiência em **Flutter + Firebase**, realizando a autenticação, armazenamento de dados e funcionalidades em tempo real. 
+- 🌱 Atualmente estudando **Python** e **JavaScript**.
 
 <div align="center">
   <a href="https://github.com/BeatrizViana123">
@@ -16,7 +17,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" widht="45" height="45"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45"/>    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" widht="45" height="45"/>
 </div>
 
 
