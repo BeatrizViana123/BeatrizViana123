@@ -1,6 +1,6 @@
-## Olá! Eu sou a Beatriz Viana 123
+## Olá! Eu sou a Beatriz Viana 
 
-- 🎓 Graduanda em Engenharia da Computação (8º período).
+- 🎓 Graduada em Engenharia da Computação pela UniNorte
 - 🧩 Possuo conhecimento básico em **desenvolvimento back-end**, tendo o foco em integração de APIs e banco de dados. 
 - 💻 Tenho experiência em **Flutter + Firebase**, realizando a autenticação, armazenamento de dados e funcionalidades em tempo real. 
 - 🌱 Atualmente estudando **Python**, **JavaScript** e **MySQL**.
